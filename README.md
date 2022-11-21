@@ -1,6 +1,6 @@
 # Dirb
 
-Dirb is a command line based tool to brute force any directory based on wordlists. It looks for existing (and/or hidden) Web Objects. It basically works by launching a dictionary-based attack against a web server and analyzing the response. DIRB main purpose is to help in professional web application auditing. It works by launching a dictionary based attack against a web server and analysing the HTTP request and see the HTTP response code of each request.
+Dirb is a command line based tool to brute force any directory based on wordlists. It looks for existing (and/or hidden) Web Objects. It basically works by launching a dictionary-based attack against a web server and analyzing the response. DIRB main purpose is to help in professional web application auditing. It works by launching a dictionary based attack against a web server and analysing the HTTP request and see the HTTP response code of each request.Also we can find admin pannel & cpannel by this tool.
 
 The tool “Dirb” is in-built in Kali Linux, therefore, Open the terminal and type following command to start brute force directory attack.
 
