@@ -1,4 +1,4 @@
-# dirb
+# Dirb
 
 Dirb is a command line based tool to brute force any directory based on wordlists. It looks for existing (and/or hidden) Web Objects. It basically works by launching a dictionary-based attack against a web server and analyzing the response. DIRB main purpose is to help in professional web application auditing. It works by launching a dictionary based attack against a web server and analysing the HTTP request and see the HTTP response code of each request.
 
@@ -22,14 +22,14 @@ We can use DIRB to test for specific vulnerable objects within specific types of
 
 In terminal:
 
-     cd /usr/share/wordlists/dirb
+     $ cd /usr/share/wordlists/dirb
 
-     ls –la
+     $ ls –la
 
-     cd  vulns/
+     $ cd  vulns/
 
-     ls -la
+     $ ls -la
      
 ![pasted image 0 (1)](https://user-images.githubusercontent.com/106522935/202938483-8e885c8d-f486-4b3a-bf76-50721b45e4fd.png)
 
-Using the common.txt file, the DIRB returns the enumerated directories found within the target URL .
+Using the common.txt file, the Dirb returns the enumerated directories found within the target URL .
